@@ -16,8 +16,9 @@ direction: ltr
 nav:
   home: /
   about: /about/
-  articles: /archives/
-  projects: projects_url
+  Posts: /archives/
+  GitHub: https://github.com/unitedgobc
+  search: /Search
 
 
 # Links to your social media accounts.
@@ -25,11 +26,8 @@ nav:
 # (see https://fontawesome.com/icons?d=gallery&s=brands);
 # only 'mail' is an exception.
 social_links:
-  github: http://github.com/probberechts/cactus-dark
-  twitter: /
-  facebook: /
-  linkedin: /
-  mail: mailto:name@email.com
+  discord: https://discord.gg/ZXfQ32X
+  github: https://github.com/unitedgobc
 
 
 # Customize the overview with the most recent blog posts on the index page.
