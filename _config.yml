@@ -17,7 +17,7 @@ nav:
   home: /
   about: /about/
   Posts: /archives/
-  Discord: https://discord.gg/ZXfQ32X
+  Discord Guild List: /guild-list/
   GitHub: https://github.com/unitedgobc
   search: /Search
 
@@ -27,7 +27,7 @@ nav:
 # (see https://fontawesome.com/icons?d=gallery&s=brands);
 # only 'mail' is an exception.
 social_links:
-  discord: https://discord.gg/ZXfQ32X
+  discord: /gvrd
   github: https://github.com/unitedgobc
 
 
